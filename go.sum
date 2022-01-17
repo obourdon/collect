@@ -1,6 +1,12 @@
 github.com/jessevdk/go-flags v1.5.0 h1:1jKYvbxEjfUl0fmqTCOfonvskHHXMjBySTLW4y9LFvc=
 github.com/jessevdk/go-flags v1.5.0/go.mod h1:Fw0T6WPc1dYxT4mKEZRfG5kJhaTDP9pj1c2EWnYs/m4=
+github.com/obourdon/collect v0.0.0-20220117131207-af6779b4ce5b h1:UwNd7nSZjk/2r7IbbkS5srbb3oBqxlDt6/JdOevMbI8=
+github.com/obourdon/collect v0.0.0-20220117131207-af6779b4ce5b/go.mod h1:ndePzHJP406GH5arhf2bOhIdJVLnPAkwSUjmixH8+Fg=
+github.com/tommsawyer/collect v0.0.0-20211018134518-1f4188cbfd11 h1:WqB6yg0GHn9kWDeadjEsvPIY8GaVCT/fjNy0KqdG5J4=
+github.com/tommsawyer/collect v0.0.0-20211018134518-1f4188cbfd11/go.mod h1:Oo3J1Sb3R9cggnxJ9dPCeMvwzkxujMAHqJXqfkNA9bg=
 golang.org/x/sync v0.0.0-20210220032951-036812b2e83c h1:5KslGYwFpkhGh+Q16bwMP3cOontH8FOep7tGV86Y7SQ=
 golang.org/x/sync v0.0.0-20210220032951-036812b2e83c/go.mod h1:RxMgew5VJxzue5/jJTE5uejpjVlOe/izrB70Jof72aM=
 golang.org/x/sys v0.0.0-20210320140829-1e4c9ba3b0c4 h1:EZ2mChiOa8udjfp6rRmswTbtZN/QzUQp4ptM4rnjHvc=
 golang.org/x/sys v0.0.0-20210320140829-1e4c9ba3b0c4/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
+golang.org/x/sys v0.0.0-20220114195835-da31bd327af9 h1:XfKQ4OlFl8okEOr5UvAqFRVj8pY/4yfcXrddB8qAbU0=
+golang.org/x/sys v0.0.0-20220114195835-da31bd327af9/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
