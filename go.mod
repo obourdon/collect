@@ -1,6 +1,6 @@
 module github.com/obourdon/collect
 
-go 1.17
+go 1.18
 
 require (
 	github.com/jessevdk/go-flags v1.5.0
@@ -10,4 +10,4 @@ require (
 
 require golang.org/x/sys v0.0.0-20210320140829-1e4c9ba3b0c4 // indirect
 
-replace github.com/tommsawyer/collect => github.com/obourdon/collect v0.0.0-20231018152435-45e71f2c98df
+replace github.com/tommsawyer/collect => github.com/obourdon/collect v0.0.0-20231018195047-9dbbea6551e4
